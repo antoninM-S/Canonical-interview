@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Fri, 23 Jun 2023 23:05:51 +0200
+Source: hello
+Binary: hello
+Built-For-Profiles: noudeb
+Architecture: source amd64
+Version: 2.10-2ubuntu5
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Antonin Martin-Schouler <ant.mart.sch@gmail.com>>
+Changed-By: Antonin Martin-Schouler <ant.mart.sch@gmail.com>>
+Description:
+ hello      - example package based on GNU hello
+Changes:
+ hello (2.10-2ubuntu5) UNRELEASED; urgency=medium
+ .
+   * Added the script testing.sh to be run during installation.
+Checksums-Sha1:
+ 521a874222990b26cf8f866df6017750b90f13d3 920 hello_2.10-2ubuntu5.dsc
+ 16788fe41f4f06e70d7f5059926a99324232a241 7032 hello_2.10-2ubuntu5.debian.tar.xz
+ cacc8863b56d25e2e78591573324db50aba46393 25982 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
+ 399b6cb0a802662a66d2187e6801d396705b137c 6320 hello_2.10-2ubuntu5_amd64.buildinfo
+ b20c99f46f09a93b7188b4e47fc67c751f230330 53660 hello_2.10-2ubuntu5_amd64.deb
+Checksums-Sha256:
+ 3427542c6116df851d8bcadd422a935288848c568be175363da747c107ebb925 920 hello_2.10-2ubuntu5.dsc
+ 9be4b1800872da4e3923c8eaffaa2411a549ffee9502d4a936cb54476c15dc30 7032 hello_2.10-2ubuntu5.debian.tar.xz
+ ddb8a705971c0eedc7b1da97a5fedbff8c14c5ea6a3e0a79429c8befc04a2073 25982 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
+ 0eff7bdd26beb5763bb62418cac7b5063319f72357ff1da0c2cce4cd2704665f 6320 hello_2.10-2ubuntu5_amd64.buildinfo
+ 76b74ec0b7b6b7f78ebfb61e121d4a61b42d8980e59ecdcf24765238a9f9364e 53660 hello_2.10-2ubuntu5_amd64.deb
+Files:
+ b13f9bd321868116bf2b2993b6f580ba 920 devel optional hello_2.10-2ubuntu5.dsc
+ fb1cd2723be89792714de0571eb5b010 7032 devel optional hello_2.10-2ubuntu5.debian.tar.xz
+ 38d700900bdb27e20ba65b85b0d6c412 25982 debug optional hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
+ 17de7882b55d01afb48315db0f6ead85 6320 devel optional hello_2.10-2ubuntu5_amd64.buildinfo
+ df486ea10e2852d71234e3740c33f3d1 53660 devel optional hello_2.10-2ubuntu5_amd64.deb
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
