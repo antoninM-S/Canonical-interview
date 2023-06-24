@@ -1,7 +1,7 @@
 Source: hello
 Section: devel
 Priority: optional
-Maintainer: Antonin Martin-Schouler <ant.mart.sch@gmail.com>>
+Maintainer: Antonin Martin-Schouler <ant.mart.sch@gmail.com>
 XSBC-Original-Maintainer: Santiago Vila <sanvila@debian.org>
 Standards-Version: 4.3.0
 Build-Depends: debhelper-compat (= 13)

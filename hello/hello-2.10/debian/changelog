@@ -2,7 +2,7 @@ hello (2.10-2ubuntu5) jammy; urgency=low
 
   * Added the script testing.sh to be run during installation.
 
- -- Antonin Martin-Schouler <ant.mart.sch@gmail.com>>  Fri, 23 Jun 2023 23:05:51 +0200
+ -- Antonin Martin-Schouler <ant.mart.sch@gmail.com>  Fri, 23 Jun 2023 23:05:51 +0200
 
 hello (2.10-2ubuntu4) jammy; urgency=medium
 
