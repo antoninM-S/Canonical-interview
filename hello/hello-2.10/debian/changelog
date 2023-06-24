@@ -1,4 +1,4 @@
-hello (2.10-2ubuntu5) jammy; urgency=low
+hello (2.10-2ubuntu6) jammy; urgency=low
 
   * Added the script testing.sh to be run during installation.
 
